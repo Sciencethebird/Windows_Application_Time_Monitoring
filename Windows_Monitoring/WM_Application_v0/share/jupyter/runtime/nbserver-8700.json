@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\Sciencethebird",
+  "password": false,
+  "pid": 8700,
+  "port": 8888,
+  "secure": false,
+  "token": "42adbe3fbb29239005b13b7feab56835124a9f8716b0a690",
+  "url": "http://localhost:8888/"
+}
